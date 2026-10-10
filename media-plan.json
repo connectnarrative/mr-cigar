@@ -1,34 +1,36 @@
 {
-  "status": "original_media_required",
+  "status": "partial_retrieval",
   "presentation": "native assets only; no Instagram embeds or profile cards",
   "hero": {
     "post": "https://www.instagram.com/p/DchX5qPNtO-/",
     "destination": "public/media/mr-cigar-hero.mp4",
     "poster": "public/media/mr-cigar-hero-poster.webp",
-    "status": "not retrieved"
+    "status": "visible in connected browser; streaming blob download canceled; unauthenticated downloader returns empty media response"
   },
   "editorial_features": [
     {
       "post": "https://www.instagram.com/p/DZNgwh5nJzZ/",
-      "placement": "homepage/brand editorial feature 1; classify after viewing original",
-      "status": "not retrieved"
+      "placement": "homepage and brand page: hospitality editorial",
+      "status": "downloaded directly from Instagram browser",
+      "asset": "public/media/instagram-hospitality.webp",
+      "dimensions": "1080 x 1080"
     },
     {
       "post": "https://www.instagram.com/p/DZSfxgeic9x/",
       "placement": "homepage/brand editorial feature 2; classify after viewing original",
-      "status": "not retrieved"
+      "status": "visible Reel; not downloaded"
     }
   ],
   "gallery_sources": [
     {
       "post": "https://www.instagram.com/p/Dcl9gEQCu8d/",
-      "status": "not retrieved"
+      "status": "visible Reel; streaming blob download canceled"
     },
     {
       "post": "https://www.instagram.com/p/DUq46B6kq6t/?img_index=1",
-      "status": "not retrieved",
-      "include": "all original carousel images"
+      "status": "two 1080 x 1080 photographs downloaded to working files; not added to gallery because both are portraits of guests",
+      "include": "No guest portraits added to gallery"
     }
   ],
-  "fallback": "existing assets retained only in draft until the selected original media is supplied"
+  "fallback": "existing hero retained in draft; chosen hero remains pending successful video download"
 }
