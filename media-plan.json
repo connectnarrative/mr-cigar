@@ -1,0 +1,34 @@
+{
+  "status": "original_media_required",
+  "presentation": "native assets only; no Instagram embeds or profile cards",
+  "hero": {
+    "post": "https://www.instagram.com/p/DchX5qPNtO-/",
+    "destination": "public/media/mr-cigar-hero.mp4",
+    "poster": "public/media/mr-cigar-hero-poster.webp",
+    "status": "not retrieved"
+  },
+  "editorial_features": [
+    {
+      "post": "https://www.instagram.com/p/DZNgwh5nJzZ/",
+      "placement": "homepage/brand editorial feature 1; classify after viewing original",
+      "status": "not retrieved"
+    },
+    {
+      "post": "https://www.instagram.com/p/DZSfxgeic9x/",
+      "placement": "homepage/brand editorial feature 2; classify after viewing original",
+      "status": "not retrieved"
+    }
+  ],
+  "gallery_sources": [
+    {
+      "post": "https://www.instagram.com/p/Dcl9gEQCu8d/",
+      "status": "not retrieved"
+    },
+    {
+      "post": "https://www.instagram.com/p/DUq46B6kq6t/?img_index=1",
+      "status": "not retrieved",
+      "include": "all original carousel images"
+    }
+  ],
+  "fallback": "existing assets retained only in draft until the selected original media is supplied"
+}

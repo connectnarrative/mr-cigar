@@ -44,3 +44,9 @@
 - Photographs are extracted video frames, not high-resolution photography. Real venue photography will improve large-screen sharpness.
 
 The standalone review copy is functional for viewing and WhatsApp handoff. It is not proof of browser QA or live persistence.
+
+## Brand content refresh (draft)
+
+The user selected DchX5qPNtO- as the replacement hero, DZNgwh5nJzZ and DZSfxgeic9x as editorial features, and Dcl9gEQCu8d / DUq46B6kq6t as native gallery sources. Instagram returned error pages through both public post and embed endpoints. None of these assets has been retrieved or misrepresented as integrated. See media-plan.json.
+
+Draft changes add a full-brand page and homepage sections covering identity, craft, gastronomy, people and Cartagena. Native gallery video and additional categories are supported without Instagram embeds or profile cards. The prior media is retained in the draft until original files arrive; the requested visual replacement is still incomplete.
