@@ -23,7 +23,7 @@ npm run typecheck
 
 Import https://github.com/connectnarrative/mr-cigar into Vercel as Next.js. Included vercel.json selects the correct build. No environment variables are required for the hospitality website and WhatsApp inquiry handoff.
 
-The deployment attempted in this session did not succeed: Sites new-site quota was exhausted, and Vercel's connected account returned 403 when creating the new project. The intended source repository is https://github.com/connectnarrative/mr-cigar. No deployed URL is claimed.
+The deployment attempted in this session did not succeed: Sites new-site quota was exhausted, and Vercel's connected account returned 403 when creating the new project. The complete source is uploaded to https://github.com/connectnarrative/mr-cigar on main. No deployed URL is claimed.
 
 Keep the review deployment authenticated using Vercel deployment protection. PUBLIC_LAUNCH=false controls indexing only; it does not restrict access. Confirm owner content and obtain the required legal review before public launch.
 

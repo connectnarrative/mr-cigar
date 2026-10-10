@@ -25,7 +25,7 @@
 | Privacy/legal | BLOCKED APPROVAL | Basic privacy page exists; owner details, Colombian legal review and regulated visuals review needed |
 | Sites deployment | BLOCKED | New Site Hosting usage limit reached |
 | Vercel deployment | BLOCKED | Connected account denied project creation (403); CLI unavailable |
-| GitHub sync | NOT DONE | Source repository: connectnarrative/mr-cigar; upload underway |
+| GitHub sync | PASS | All application source, assets and setup files uploaded to connectnarrative/mr-cigar main |
 | Public launch | NOT READY | Content, live CMS verification, legal approval, browser QA and hosting remain outstanding |
 
 ## Research provenance
